@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\seminar 21.10\Example006\bin\Debug\net6.0\Example006.exe
+C:\Users\Acer\Desktop\seminar 21.10\Example006\bin\Debug\net6.0\Example006.deps.json
+C:\Users\Acer\Desktop\seminar 21.10\Example006\bin\Debug\net6.0\Example006.runtimeconfig.json
+C:\Users\Acer\Desktop\seminar 21.10\Example006\bin\Debug\net6.0\Example006.dll
+C:\Users\Acer\Desktop\seminar 21.10\Example006\bin\Debug\net6.0\Example006.pdb
+C:\Users\Acer\Desktop\seminar 21.10\Example006\obj\Debug\net6.0\Example006.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\seminar 21.10\Example006\obj\Debug\net6.0\Example006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\seminar 21.10\Example006\obj\Debug\net6.0\Example006.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\seminar 21.10\Example006\obj\Debug\net6.0\Example006.AssemblyInfo.cs
+C:\Users\Acer\Desktop\seminar 21.10\Example006\obj\Debug\net6.0\Example006.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\seminar 21.10\Example006\obj\Debug\net6.0\Example006.dll
+C:\Users\Acer\Desktop\seminar 21.10\Example006\obj\Debug\net6.0\refint\Example006.dll
+C:\Users\Acer\Desktop\seminar 21.10\Example006\obj\Debug\net6.0\Example006.pdb
+C:\Users\Acer\Desktop\seminar 21.10\Example006\obj\Debug\net6.0\Example006.genruntimeconfig.cache
+C:\Users\Acer\Desktop\seminar 21.10\Example006\obj\Debug\net6.0\ref\Example006.dll
