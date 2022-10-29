@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\seminar 21.10\\Example005\\Example005.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\тестировщик\\seminar 21.10\\Example005\\Example005.csproj",
       "projectName": "Example005",
-      "projectPath": "C:\\Users\\Acer\\Desktop\\seminar 21.10\\Example005\\Example005.csproj",
+      "projectPath": "C:\\Users\\Acer\\Desktop\\тестировщик\\seminar 21.10\\Example005\\Example005.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Desktop\\seminar 21.10\\Example005\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Desktop\\тестировщик\\seminar 21.10\\Example005\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"

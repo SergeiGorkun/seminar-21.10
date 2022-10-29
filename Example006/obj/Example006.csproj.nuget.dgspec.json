@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\seminar 21.10\\Example006\\Example006.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\тестировщик\\seminar 21.10\\Example006\\Example006.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\seminar 21.10\\Example006\\Example006.csproj": {
+    "C:\\Users\\Acer\\Desktop\\тестировщик\\seminar 21.10\\Example006\\Example006.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\seminar 21.10\\Example006\\Example006.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\тестировщик\\seminar 21.10\\Example006\\Example006.csproj",
         "projectName": "Example006",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\seminar 21.10\\Example006\\Example006.csproj",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\тестировщик\\seminar 21.10\\Example006\\Example006.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\seminar 21.10\\Example006\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\тестировщик\\seminar 21.10\\Example006\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"

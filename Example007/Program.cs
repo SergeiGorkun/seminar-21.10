@@ -1,18 +1,10 @@
 ﻿// Написать программу, которая обменивает элементы первой строки и последней строки
-int[,] matrix = new int[3, 4];
-int[,] FillArray(int[,] matr)
-{
-    for (int i = 0; i < matr.GetLength(0); i++)
-    {
-        for (int j = 0; j < matr.GetLength(1); j++)
-        {
-            matr[i, j] = (new Random()).Next(1, 10);
-            Console.Write(matr[i, j] + " ");
-        }
-        Console.WriteLine();
-    }
-    return matr;
-}
+int[,] matrix = {
+    { 2, 3, 6, 3 },
+    { 2, 7, 2, 3 },
+    { 2, 3, 6, 3 },
+    { 1, 3, 6, 4 }
+};
 
 int [,] Elementfirstrowelementlastrow(int[,] matr)
 {
@@ -39,8 +31,6 @@ void PrintArray(int[,] A)
     }
 }
 
-matrix = FillArray(matrix);
-Console.WriteLine();
 matrix = Elementfirstrowelementlastrow(matrix);
 PrintArray(matrix);
 

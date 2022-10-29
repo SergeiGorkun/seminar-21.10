@@ -1,22 +1,14 @@
 ﻿// Дан целочисленный массив. Найти среднее арифметическое каждого из столбцов.
-int[,] matrix = new int [3, 4];
-int[,] FillArray(int [,] matr)
-{
-for (int i = 0; i < matr.GetLength(0); i++)
-    {
-        for (int j = 0; j < matr.GetLength(1); j++)
-        {
-            matr[i,j] = (new Random()).Next(1,10);
-            Console.Write(matr[i,j] + " ");
-        }
-        Console.WriteLine();
-    }
-    return matr;
-}
+int[,] matrix = {
+    { 2, 3, 6, 3 },
+    { 2, 7, 2, 3 },
+    { 2, 3, 6, 3 },
+    { 1, 3, 6, 4 }
+};
 
-
-void MeanColumns(int [,] matr)
+int[] MeanColumns(int [,] matr)
 {
+    int[] result = new int[matr.GetLength(1)];
     for (int j = 0; j < matr.GetLength(1); j++)
     {
         int sum = 0;
@@ -24,9 +16,15 @@ void MeanColumns(int [,] matr)
         {
             sum += matr[i,j];
         }
-        Console.WriteLine(sum/matr.GetLength(0));
+        result[j] = sum;
+    }
+    return result;
+}
+
+void PrintArray(int[] arr) {
+    for(int i = 0; i < arr.Length; i++) {
+        Console.WriteLine("Сумма элементов столбца №" + (i + 1) + " равна " + arr[i]);
     }
 }
-matrix = FillArray(matrix);
-Console.WriteLine();
-MeanColumns(matrix);
+
+PrintArray(MeanColumns(matrix));
